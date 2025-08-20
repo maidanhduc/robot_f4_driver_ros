@@ -1,0 +1,2 @@
+../Core/Src/6dot_servo.c:3:6:analog_Write	24	static
+../Core/Src/6dot_servo.c:8:6:setServoAngle	32	static

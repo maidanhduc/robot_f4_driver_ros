@@ -1,0 +1,22 @@
+../Core/Inc/driver_robot.h:40:8:void Motor::goForward(uint32_t)	4
+../Core/Inc/driver_robot.h:45:8:void Motor::goReverse(uint32_t)	4
+../Core/Inc/driver_robot.h:50:8:void Motor::stop()	1
+../Core/Src/driver_robot.cpp:19:9:int16_t constrains(int16_t, int16_t, int16_t)	3
+../Core/Src/driver_robot.cpp:24:8:double fConstrain(double, double, double)	3
+../Core/Src/driver_robot.cpp:33:6:void soft_speed(int16_t*, uint32_t*, int16_t, uint32_t, uint8_t)	6
+../Core/Src/driver_robot.cpp:48:9:int16_t get_angle(int16_t)	3
+../Core/Src/driver_robot.cpp:55:9:int16_t PID_rotate(int16_t, int16_t)	1
+../Core/Src/driver_robot.cpp:83:6:void run_dc(uint8_t, int16_t)	2
+../Core/Src/driver_robot.cpp:90:6:void run_dc(uint8_t, uint8_t, uint8_t)	3
+../Core/Src/driver_robot.cpp:177:9:int16_t move_direction(int16_t, int16_t, int16_t, int16_t, uint32_t, uint8_t)	2
+../Core/Src/driver_robot.cpp:256:6:void test_DC()	2
+../Core/Src/driver_robot.cpp:263:6:void stop_all()	2
+../Core/Src/driver_robot.cpp:268:6:void ps3_pid()	9
+../Core/Src/driver_robot.cpp:313:6:void tien(uint16_t)	1
+../Core/Src/driver_robot.cpp:319:6:void lui(uint16_t)	1
+../Core/Src/driver_robot.cpp:325:6:void trai(uint16_t)	1
+../Core/Src/driver_robot.cpp:331:6:void phai(uint16_t)	1
+../Core/Src/driver_robot.cpp:337:6:void xoay_phai(uint16_t)	1
+../Core/Src/driver_robot.cpp:344:6:void xoay_trai(uint16_t)	1
+../Core/Src/driver_robot.cpp:351:6:void ps3_nor()	7
+../Core/Src/driver_robot.cpp:376:6:void ps3_pid_double(int32_t)	2

@@ -1,0 +1,3 @@
+../Core/Src/Uart.c:16:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/Uart.c:26:6:get_uart	16	static
+../Core/Src/Uart.c:42:9:Compass	16	static
